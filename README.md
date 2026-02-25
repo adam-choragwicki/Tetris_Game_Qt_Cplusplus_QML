@@ -1,3 +1,5 @@
+[![Tests](https://github.com/adam-choragwicki/Tetris_Game_Qt_Cplusplus_QML/actions/workflows/tests-workflow.yml/badge.svg)](https://github.com/adam-choragwicki/Tetris_Game_Qt_Cplusplus_QML/actions/workflows/tests-workflow.yml)
+
 # Tetris
 C++ implementation of the classic Tetris game using Qt 6.9.2.
 
@@ -13,3 +15,4 @@ Unit tested using Google Test 1.17.0
    https://github.com/adam-choragwicki/Tetris_Game_Qt_Cplusplus_QML/releases/latest/download/executable_windows.zip
 2. Unzip
 3. Run **executable_windows/Tetris.exe**
+
